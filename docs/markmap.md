@@ -1,32 +1,33 @@
 # Learn .NET Maui 
 
-## 1. Pre-Requisites
-### 1.1 Familiarity with any programming language
-### 1.2 Access to a development device & Internet 
+### `1. Pre-Requisites`
+#### 1.1 Familiarity with any programming language
+#### 1.2 Access to a development device & Internet 
 
 ---
 
-## 2. Developer Fundamentals
-### 2.1 Introduction to Version Control with Git | [Learn](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
-### 2.2 Intro to Github, Github Actions (CI/CD) | [Learn](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/)
-### 2.2 Intro to HTTP & HTTPS (Network Protocols) | [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-### 2.3 Intro to VS Code (IDE) | [First Steps](https://code.visualstudio.com/docs) and [C#/.Net dev](https://code.visualstudio.com/docs/languages/csharp)
-### 2.4 Intro to Algorithms & Data Structures | [FreeCodeCamp](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/) and [in C#](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
+### `2. Developer Fundamentals`
+#### 2.1 Introduction to Version Control with Git | [Learn](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
+#### 2.2 Intro to Github, Github Actions (CI/CD) | [Learn](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/)
+#### 2.2 Intro to HTTP & HTTPS (Network Protocols) | [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+#### 2.3 Intro to VS Code (IDE) | [First Steps](https://code.visualstudio.com/docs) and [C#/.Net dev](https://code.visualstudio.com/docs/languages/csharp)
+#### 2.4 Intro to Algorithms & Data Structures | [FreeCodeCamp](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/) and [in C#](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
 
 ---
 
-## 3. C# Fundamentals
+### `3. C# Fundamentals`
 
-### 3.1 C# Documentation | [Docs](https://docs.microsoft.com/en-us/dotnet/csharp/) or [Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+#### 3.1 C# Documentation | [Docs](https://docs.microsoft.com/en-us/dotnet/csharp/) or [Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 
-### 3.2 Take Your First Steps with C# | [Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) or [Interactive](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
+#### 3.2 Take Your First Steps with C# | [Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) or [Interactive](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
 
-### 3.3 Add logic to your applications | [Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-logic/)
+#### 3.3 Add logic to your applications | [Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-logic/)
 
-### 3.4 Work with data in C# | [Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-data/)
+#### 3.4 Work with data in C# | [Learn](https://docs.microsoft.com/en-us/learn/paths/csharp-data/)
 
+---
 
-## 4. .NET Fundamentals
+### 4. .NET Fundamentals
 ### 4.1 Introduction to .NET | [Docs](https://docs.microsoft.com/en-us/dotnet/core/introduction), [Tutorials](https://docs.microsoft.com/en-us/dotnet/core/tutorials/) and [.NET 6](https://docs.microsoft.com/en-us/dotnet/core/compatibility/6.0)
 ### 4.2 Build .NET Applications with C# | [Learn](https://docs.microsoft.com/en-us/learn/paths/build-dotnet-applications-csharp/)
 ### 4.3 Create .NET console app | [VSCode](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code), [VS Mac](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-mac)

@@ -2,6 +2,8 @@
 
 This is inspired by the [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) project and adapted for my use. The image below is generated from [this Markdown](/markmap) page, using the [VSCode Markmap extension](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode). The roadmap is tentative and likely to be updated over time.
 
+---
+
 For beginners I suggest these resources and navigational path, to start.
  * [.NET Application Architecture Guide](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) - learn how it all fits together
  * [What is .NET](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) - understand the core platform for app dev
@@ -18,4 +20,7 @@ Plus three bonus resources to add that exclamation point to your journey!
  * [Learn .NET Game Development](https://dotnet.microsoft.com/learn/games)
 <br/>
 
-![](../static/roadmap.png)
+---
+
+<iframe style="background-color: white;" width="100%" height="500" src="../markmap.html" allowtransparency="true">
+</iframe>

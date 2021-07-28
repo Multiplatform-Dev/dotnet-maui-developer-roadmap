@@ -21,5 +21,6 @@
     - [3. Local Dev Env](/notes/004-csharp-localdevenv)
     - [4. C# Guide](/notes/005-csharp-guide)
     ---
-- [Glossary](/glossary)
+- [Roadmap](/notes/001-roadmap)
 - [Resources](/resources)
+- [Glossary](/glossary)
